@@ -1,0 +1,7 @@
+functions-framework==3.*
+requests==2.32.*
+streamlit
+google-cloud-bigquery
+pandas
+requests
+db-dtypes
